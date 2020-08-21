@@ -1,9 +1,4 @@
 /**
- * @param {string} secret
- * @param {string} guess
- * @return {string}
- */
-/**
  * Complexity (n = digits in the number)
  * Time complexity: O(n)
  * Space complexity: O(1)
