@@ -13,9 +13,8 @@ class Solution:
 
 def traverse(grid, current_position, current_path_len, required_path_len) -> int:
     x0, y0 = current_position
+    
     if grid[x0][y0] == 2:
-        # print(grid)
-        # print(current_path_len, required_path_len)
         if current_path_len == required_path_len:
             return 1
         else:

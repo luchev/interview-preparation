@@ -2,6 +2,8 @@
 # Time complexity: O(n)
 # Space complexity: O(1)
 
+from typing import List
+
 class Solution:
     def removeDuplicates(self, nums: List[int]) -> int:
         replaceIndex = 1
