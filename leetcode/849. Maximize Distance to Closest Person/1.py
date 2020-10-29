@@ -1,7 +1,9 @@
 # Complexity(n = length of seats)
 # Time complexity: O(n)
 # Space complexity: O(1)
+
 import math
+from typing import List
 
 class Solution:
     def maxDistToClosest(self, seats: List[int]) -> int:
