@@ -9,7 +9,8 @@ class Solution:
         if len(arr) < 3:
             return False
         
-        for i in range(1, len(arr)):
+        i = 1
+        for i in range(i, len(arr)):
             if arr[i - 1] >= arr[i]:
                 break
         
