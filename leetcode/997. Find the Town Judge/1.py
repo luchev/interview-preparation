@@ -1,6 +1,6 @@
 # Complexity (n = number of people, k = number of edges)
-# Time complexity: O(n + m)
-# Space complexity: O(n)
+# Time complexity: O(n + k)
+# Space complexity: O(n + k)
 
 from typing import List
 from collections import defaultdict
