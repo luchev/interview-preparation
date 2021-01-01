@@ -1,3 +1,7 @@
+# Complexity (n = length of input string)
+# Time complexity: O(n)
+# Space complexity: O(1)
+
 class Solution:
     def maxDepth(self, s: str) -> int:
         open_paren = 0
