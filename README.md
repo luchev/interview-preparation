@@ -1,6 +1,6 @@
-# Interview problems
+# Interview problem solutions
 
-This repo contains the problems I solve to prepare for a coding interview.
+This repo contains the problems I solve to prepare for coding interviews.
 
 The problems are from the following websites:
 
